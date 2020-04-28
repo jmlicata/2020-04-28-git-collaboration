@@ -5,3 +5,4 @@ clone command entered
 git branch <branch_name>: creates new branch
 git switch <branch_name>: move to a new branch
    git checkout <branch_name>: old way to move to a branch
+Create second branch
